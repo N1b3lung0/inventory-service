@@ -1,4 +1,4 @@
-package com.n1b3lung0.inventory_service;
+package com.n1b3lung0.inventory;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
