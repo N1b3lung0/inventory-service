@@ -3,7 +3,7 @@ spring:
     name: inventory-service
   datasource:
     driver-class-name: org.postgresql.Driver
-    url: jdbc:postgresql://localhost:5432/inventories
+    url: jdbc:postgresql://localhost:5442/inventories
     username: test
     password: test
   jpa:
